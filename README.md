@@ -24,6 +24,7 @@
 
 - GitHub: https://raw.githubusercontent.com/swordgrass/p5-liveops/main/hotupdate/windows64-development/manifest.json
 - Gitee: https://gitee.com/swordgrass/p5-liveops/raw/main/hotupdate/windows64-development/manifest.json
+- Cloudflare: https://p5-telemetry.swordgrass-p5.workers.dev/hotupdate/windows64-development/manifest.json
 
 客户端更新根地址是上述 `manifest.json` 的父目录。镜像必须逐文件保持相同字节，客户端按平台、通道、基包兼容身份及文件摘要检查。
 
