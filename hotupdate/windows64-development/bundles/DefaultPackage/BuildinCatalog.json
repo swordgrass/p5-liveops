@@ -1,0 +1,31 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "default-code-patch-r2",
+    "Wrappers": [
+        {
+            "BundleGUID": "55999255fd3a88c4e51a4fe8496d3ee3",
+            "FileName": "defaultpackage_assets_assetraw_actor_55999255fd3a88c4e51a4fe8496d3ee3.bundle"
+        },
+        {
+            "BundleGUID": "9661c65cff2c68c34ce9ec2c03c4f479",
+            "FileName": "defaultpackage_assets_assetraw_configs_9661c65cff2c68c34ce9ec2c03c4f479.bundle"
+        },
+        {
+            "BundleGUID": "e6441e0801e9a5f3d0cde8f0c6082762",
+            "FileName": "defaultpackage_assets_assetraw_uiraw_atlas_battle_e6441e0801e9a5f3d0cde8f0c6082762.bundle"
+        },
+        {
+            "BundleGUID": "a6abc062c4adc304807b31c5da06d917",
+            "FileName": "defaultpackage_assets_assetraw_ui_battlemainui_a6abc062c4adc304807b31c5da06d917.bundle"
+        },
+        {
+            "BundleGUID": "e9c4bf5ab406285d1ab397c2c6c38432",
+            "FileName": "defaultpackage_assets_assetraw_ui_loginui_e9c4bf5ab406285d1ab397c2c6c38432.bundle"
+        },
+        {
+            "BundleGUID": "30c9a71396b5ed21ee9f5c5446a9d424",
+            "FileName": "defaultpackage_assets_assetraw_ui_testui_30c9a71396b5ed21ee9f5c5446a9d424.bundle"
+        }
+    ]
+}

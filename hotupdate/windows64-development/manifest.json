@@ -1,0 +1,655 @@
+{
+    "schema": 1,
+    "channel": "development",
+    "platform": "Windows64",
+    "compatibility": "P5-base-20261107-player-r3",
+    "version": "code-patch-r2",
+    "files": [
+        {
+            "path": "assemblies/GameLogic.dll",
+            "sha256": "ca1720108b958e3c1b00cfc78f3faeb1fa4e048ad75c6bac3ba5706e230adcdd",
+            "kind": "assembly",
+            "bytes": 1294336
+        },
+        {
+            "path": "assemblies/GameProto.dll",
+            "sha256": "fe2f72a14a962454bd12ac1cfbfcd13dc6b34ee5a3af690694ce9c1fb1ad9760",
+            "kind": "assembly",
+            "bytes": 23552
+        },
+        {
+            "path": "bundles/DefaultPackage/BuildinCatalog.bytes",
+            "sha256": "84b4e1e98a17975e11c228c5a78df7a2300dfd1b46a8c4f1e445fef2357991b0",
+            "kind": "bundle",
+            "bytes": 760
+        },
+        {
+            "path": "bundles/DefaultPackage/BuildinCatalog.bytes.meta",
+            "sha256": "e462e758369eb8f611c3b5023e8f40b67464ffdf1f3e9b596438d9dc10dd98e4",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/BuildinCatalog.json",
+            "sha256": "15564c808ef138d20ae091ed4e97916f97d0221b518c151598a0012fe7a9d713",
+            "kind": "bundle",
+            "bytes": 1288
+        },
+        {
+            "path": "bundles/DefaultPackage/BuildinCatalog.json.meta",
+            "sha256": "909593a1836355f93deef3e9b42400930a1f8a9d327c94a0413f2e31bbd96a2d",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/DefaultPackage.version",
+            "sha256": "afac66efb2434457142c68d63121ffcdda0987d7f0ff24005f28b74be71e3cf4",
+            "kind": "bundle",
+            "bytes": 21
+        },
+        {
+            "path": "bundles/DefaultPackage/DefaultPackage.version.meta",
+            "sha256": "734a6255aad137c0c6c7f10f6fe6e1f3191b2c584dcf22c4f9cf64aa0370666b",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/DefaultPackage_default-code-patch-r2.bytes",
+            "sha256": "ead576aed1ba6d6c3a94bb35548ab4348481af8e6cd0e145f417eff3a6c7f3e8",
+            "kind": "bundle",
+            "bytes": 1637
+        },
+        {
+            "path": "bundles/DefaultPackage/DefaultPackage_default-code-patch-r2.bytes.meta",
+            "sha256": "e01fb4249a3d9307c71f0a872de6a5b3e8f317da7c5ef6cf307911b4c9ab145e",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/DefaultPackage_default-code-patch-r2.hash",
+            "sha256": "e43dfdb1bf9759af6e909fc9ef67f3e5e9981e1a72148b427becfa218544fed8",
+            "kind": "bundle",
+            "bytes": 8
+        },
+        {
+            "path": "bundles/DefaultPackage/DefaultPackage_default-code-patch-r2.hash.meta",
+            "sha256": "e7cbb422eedf564ae092e26be51f84d5f0f47085245676b34d98ca877dd05819",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_actor_55999255fd3a88c4e51a4fe8496d3ee3.bundle",
+            "sha256": "3cd5f7ff1b3cdd277d05603bf67316a944ce874e0502358043de9e50684897a8",
+            "kind": "bundle",
+            "bytes": 43879
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_actor_55999255fd3a88c4e51a4fe8496d3ee3.bundle.meta",
+            "sha256": "150a6656cd92ee0ae9cef6dfd2ebea45a24a831462ddd3474fdce0a776140e49",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_configs_9661c65cff2c68c34ce9ec2c03c4f479.bundle",
+            "sha256": "ad6760d90899a4f321ebf2bd494f91a155135e0557648f43e7c655b3c2953941",
+            "kind": "bundle",
+            "bytes": 1237
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_configs_9661c65cff2c68c34ce9ec2c03c4f479.bundle.meta",
+            "sha256": "74db47acede1ce53b71349358ebe020f581cdb5d32ea2c401b7ba37904cb7f98",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_ui_battlemainui_a6abc062c4adc304807b31c5da06d917.bundle",
+            "sha256": "11d6724e7c597cd5715b2b0eab6891b9a1e3ad8107f4a45ee109bb1a72b63d83",
+            "kind": "bundle",
+            "bytes": 14748
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_ui_battlemainui_a6abc062c4adc304807b31c5da06d917.bundle.meta",
+            "sha256": "1770779d49ae71722522529c023f6d629b1c14ad88bc96a27f5dd233e1477782",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_ui_loginui_e9c4bf5ab406285d1ab397c2c6c38432.bundle",
+            "sha256": "536a0fac4498d831c3ad99dd89daf66c08e873ddb334cf04b3b4d890f4154491",
+            "kind": "bundle",
+            "bytes": 13686
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_ui_loginui_e9c4bf5ab406285d1ab397c2c6c38432.bundle.meta",
+            "sha256": "b5dc35a9703bfa3f38a363b13097b1d9d8475741bd65b5eb26defff9644a2870",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_ui_testui_30c9a71396b5ed21ee9f5c5446a9d424.bundle",
+            "sha256": "e48c4b83bd93b37f316c092a0d5fb3d3e4ac141ff7193e413c05e78650bc032f",
+            "kind": "bundle",
+            "bytes": 7739
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_ui_testui_30c9a71396b5ed21ee9f5c5446a9d424.bundle.meta",
+            "sha256": "ab7ee7fcc092064b2274bbe0856aef31c4dcee08e78724def2951ca45872702a",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_uiraw_atlas_battle_e6441e0801e9a5f3d0cde8f0c6082762.bundle",
+            "sha256": "e0aa41778b84f947d96b635af3144d4e1bba010d25226d0c016673fc2a305b00",
+            "kind": "bundle",
+            "bytes": 40460
+        },
+        {
+            "path": "bundles/DefaultPackage/defaultpackage_assets_assetraw_uiraw_atlas_battle_e6441e0801e9a5f3d0cde8f0c6082762.bundle.meta",
+            "sha256": "ca4b5a8e3447ae224c0c255b7551385a252a6f89d9f753b8555c68b21c5daa99",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/BuildinCatalog.bytes",
+            "sha256": "225ffec51941260f03d6bbb95923403a1c339e3ef5565b081e5cf90f9ae05e14",
+            "kind": "bundle",
+            "bytes": 3954
+        },
+        {
+            "path": "bundles/P5Player/BuildinCatalog.bytes.meta",
+            "sha256": "87fdbc75912dae1a11070c2c3090be08502a600f87765b55af6f167bca464da9",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/BuildinCatalog.json",
+            "sha256": "8f47eb87660e467c571d5fd3793a8fdcd472dd664b388bfc38885848ced3df05",
+            "kind": "bundle",
+            "bytes": 6406
+        },
+        {
+            "path": "bundles/P5Player/BuildinCatalog.json.meta",
+            "sha256": "b3839fea62756f2764ddeb70b2c02d13d05e4e231aa64c2e94067b40b20f5769",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/P5Player.version",
+            "sha256": "042b5fcb39ce94db5413b64bdc40445de50731f48ddc7fc8f789b4d799c92773",
+            "kind": "bundle",
+            "bytes": 13
+        },
+        {
+            "path": "bundles/P5Player/P5Player.version.meta",
+            "sha256": "3e1d5398e0cc093c24b60856c397bf89fc1da53bb505244235d235b08272098f",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/P5Player_code-patch-r2.bytes",
+            "sha256": "94b690f67d647427d3976a0f11377f121cbc4f3d9504dc18cf8a017874aacd6f",
+            "kind": "bundle",
+            "bytes": 4139
+        },
+        {
+            "path": "bundles/P5Player/P5Player_code-patch-r2.bytes.meta",
+            "sha256": "4b02ad9faa0e320319f6bc81e057a2188137099d471a5ad3ba07d0f9f60d1807",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/P5Player_code-patch-r2.hash",
+            "sha256": "3a31731b1511e683dbd0f15abdfbe3d4cda137ca1551b50b8ae604eb14f1c70f",
+            "kind": "bundle",
+            "bytes": 8
+        },
+        {
+            "path": "bundles/P5Player/P5Player_code-patch-r2.hash.meta",
+            "sha256": "b1d1d64091736679c5465608b847e2a91340819135dc980293d8ade813908d2f",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_assets_scenes_battle_cf1335a287369b51841a8736e2a872cf.bundle",
+            "sha256": "17540b97ed45f8e8527615840b60c9f41058e7074797bec3eb3f7371a6b096f4",
+            "kind": "bundle",
+            "bytes": 172315
+        },
+        {
+            "path": "bundles/P5Player/p5player_assets_scenes_battle_cf1335a287369b51841a8736e2a872cf.bundle.meta",
+            "sha256": "991aead247825ea47f890d75bf574aae800361eec96964cbb181d37b68fe5e06",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_assets_scenes_main_519522b581173e5e8f5a12b35eaad17b.bundle",
+            "sha256": "ff44b77ac0272e6eaeb1ae3ae8f396a5a1fbe7db29d6512faa1d1abcb942d1a5",
+            "kind": "bundle",
+            "bytes": 267303
+        },
+        {
+            "path": "bundles/P5Player/p5player_assets_scenes_main_519522b581173e5e8f5a12b35eaad17b.bundle.meta",
+            "sha256": "8ee40eb4a9c25d0739c8ffecaf3aaaf15bd71ccb0755e23025324d6449b9bc99",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5audio_ef42fef7c05aa9f5f3e0f3c0b40c8958.bundle",
+            "sha256": "1b072af83420c93f1ac058a34a3235f98e0a78ca03d7283808a9a53f4ee049c9",
+            "kind": "bundle",
+            "bytes": 3506
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5audio_ef42fef7c05aa9f5f3e0f3c0b40c8958.bundle.meta",
+            "sha256": "d44bbe3c2531faf2a76f4f696554e8941ae72d124a030da2c626457400550db6",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5audio_feedback_288c4fbfd1fe51ec932ccade76e6d0f7.bundle",
+            "sha256": "b78acbb0ab4a85a4d8994609f0636916936a1fdd418f1654a034d49961db8b8c",
+            "kind": "bundle",
+            "bytes": 841695
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5audio_feedback_288c4fbfd1fe51ec932ccade76e6d0f7.bundle.meta",
+            "sha256": "f5a843ea4a96cc9a98c629eeff49176828b4fb66a262a9b51ee226dbb1c30dd6",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5fonts_afbcb9cad9bab5ccc22174e24fcc54ef.bundle",
+            "sha256": "98a7154072fb0e2df8b6764dbf33f5d044cf3adc3cd61ca490bf3ceb064ad5fc",
+            "kind": "bundle",
+            "bytes": 14733797
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5fonts_afbcb9cad9bab5ccc22174e24fcc54ef.bundle.meta",
+            "sha256": "9aa997ee7a2a16b2bf1c505a5d5823121f88d5299605148df8c171a0620d8c79",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5fonts_uirestore_23b5b54dfdc63eb59f8e299c1f3ebb69.bundle",
+            "sha256": "2120417f4de99f27e9a1fb19148a08c8c5ca22c40ef74ab96e4442812e35aadf",
+            "kind": "bundle",
+            "bytes": 4795813
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5fonts_uirestore_23b5b54dfdc63eb59f8e299c1f3ebb69.bundle.meta",
+            "sha256": "893327b2eb039ccfc4b03083d3d5352b1c6575fc8cc7b3fce89bf4835ac2590c",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5hotcontent_p5_734eb704a3fc6385760fbfed1546f61f.bundle",
+            "sha256": "9a61c0a6547b428b8e8a885f990b912f4cea3182086bfb692f0b2a80103d6662",
+            "kind": "bundle",
+            "bytes": 4503154
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5hotcontent_p5_734eb704a3fc6385760fbfed1546f61f.bundle.meta",
+            "sha256": "1c7102f994e924d8e5e82215079a23bd6ade982556e521b3418cefecb7ea8462",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5hotcontent_p5_world_0c2ef02414e206cbf297cfdd2e8613f8.bundle",
+            "sha256": "2152d23be6430b9569f717b022926a4d10def42beba6aaf87c0d83f220649040",
+            "kind": "bundle",
+            "bytes": 6643
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_p5hotcontent_p5_world_0c2ef02414e206cbf297cfdd2e8613f8.bundle.meta",
+            "sha256": "9a7e68e9eab1cb5097ba87cd2d1fa63be014ad280b2356ca0ee46b2e923f6006",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_firstarea_batcha_473c366c84a32aab3f88b84c5bcc09e3.bundle",
+            "sha256": "791cd1628313c0b35653f7fb28d2ff1c377e5de885dd239745c83ea962cafeca",
+            "kind": "bundle",
+            "bytes": 247340
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_firstarea_batcha_473c366c84a32aab3f88b84c5bcc09e3.bundle.meta",
+            "sha256": "374b359a7df93acea0714d07cc76fcbf99b1a856ce7957963808a9ab69c21d2a",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_firstarea_v01_9a3a0c1d780245ceaa02fee85e1bdaed.bundle",
+            "sha256": "5051f196c9ebddb13d9d0f78627a66ee1d94f494b7e685d6be029cfcb0aa3f53",
+            "kind": "bundle",
+            "bytes": 210102
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_firstarea_v01_9a3a0c1d780245ceaa02fee85e1bdaed.bundle.meta",
+            "sha256": "3790a5062c78be1bbaafd627cd651138dcc721a43a26b3cc03dc76585b96f758",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_firstplayable_03d9542ddad016b24e014186a9883a6a.bundle",
+            "sha256": "521b20566c0942b1d7ceb58235392edd347a681b3cc27fc595e3a5029d60f391",
+            "kind": "bundle",
+            "bytes": 1579163
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_firstplayable_03d9542ddad016b24e014186a9883a6a.bundle.meta",
+            "sha256": "ab91ba7a78a9cb0f9066af374660b91438a10062242a591421a6ac4a83660a8b",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_characters_5e18aa84217698575209c18cd2c8b4f8.bundle",
+            "sha256": "533689a75bfa8916b1265e4492ef5ed3e4b3bc5cdd96d70f3a74455b7f529001",
+            "kind": "bundle",
+            "bytes": 260671
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_characters_5e18aa84217698575209c18cd2c8b4f8.bundle.meta",
+            "sha256": "232ed862506b9f2560b2c05707832fe113e76804eac74da112c8e4c2ca696dd2",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_enemies_d0a075ca88c9a371be4e21562f4c476a.bundle",
+            "sha256": "96d7ef6ed29f676333e8873e0e94b14e3bcffb8a656fa978aa046ca4aa7a4906",
+            "kind": "bundle",
+            "bytes": 623151
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_enemies_d0a075ca88c9a371be4e21562f4c476a.bundle.meta",
+            "sha256": "d89a41655d04f73cb670c1eb29237b394510565aa713658d5a9f1d4e46ddbc64",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_icons_6716b36ef6a13c933887eba3f6983f65.bundle",
+            "sha256": "144e0f533088e65ffca7ab58af63ad6cf396ce61ff6f2fd3f1b0cf80c114c151",
+            "kind": "bundle",
+            "bytes": 103437
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_icons_6716b36ef6a13c933887eba3f6983f65.bundle.meta",
+            "sha256": "8fa4b1a52f7cb25ecefc8bd79c10ae92b156621aa4947e8b5e5684157c2d235d",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_landmarks_ebdb75408a72ea9e8dadd65cd81349c9.bundle",
+            "sha256": "dd511094caae5110257865df25434aa87669c685f6fba5cb4a9c50a8704e310b",
+            "kind": "bundle",
+            "bytes": 4174780
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_landmarks_ebdb75408a72ea9e8dadd65cd81349c9.bundle.meta",
+            "sha256": "fa1f747b2de56a760810446c78bf013a4026fe665658b55fb96aed0427684b8e",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_terrain_f1ad28ab282f6b9ffd9d3927f90aa5e2.bundle",
+            "sha256": "3b853c57d9e120159dc832bcfb9d22b84eaec8afdc65cbb612179093b3d8830b",
+            "kind": "bundle",
+            "bytes": 1583500
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_terrain_f1ad28ab282f6b9ffd9d3927f90aa5e2.bundle.meta",
+            "sha256": "6d7f8600a3a17ce85b6c6aabcabb91455603f61f03edd608ba27a79e8e77a489",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_ui_c8b43eb9d204c228da361f6b5f7255f3.bundle",
+            "sha256": "cf18ad1c4b57162c7cdf689a1d1a27484629e3431b92d78249cb39d226d24bc9",
+            "kind": "bundle",
+            "bytes": 697647
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_launcha_ui_c8b43eb9d204c228da361f6b5f7255f3.bundle.meta",
+            "sha256": "2bf6417e84c42193822d8993f7f0e5efa0693be94a25f396262576c427de16ac",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_battle_53c3f0a112f9696cc932798b47836630.bundle",
+            "sha256": "20a5c2e1e2bdb4d341807c78d2c68e3611de8276decde576afe1a309b16b1729",
+            "kind": "bundle",
+            "bytes": 3943542
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_battle_53c3f0a112f9696cc932798b47836630.bundle.meta",
+            "sha256": "30261feb54ac32ddc2c5a5d8b10044add6e0821975e217379ac0f982d9b2dc50",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_camp_4f0664137ee04daed7612530f507884f.bundle",
+            "sha256": "6c0bdb0c960bc2826e4bc11acfd88a06065b9c9386950a4fd3ce224793ba06b8",
+            "kind": "bundle",
+            "bytes": 283308
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_camp_4f0664137ee04daed7612530f507884f.bundle.meta",
+            "sha256": "eb8bd62e267f9c53952da8815620c94e99809479b5c7db7f955e094419778455",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_character_1e463ede5b838439864f4969031869e1.bundle",
+            "sha256": "7eab986361034cce2ae1ae75bc453a6fed0fa46d96701b89110aedaf24911661",
+            "kind": "bundle",
+            "bytes": 412538
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_character_1e463ede5b838439864f4969031869e1.bundle.meta",
+            "sha256": "8f2e366f338e82ff042b077c587ce1c348ca8d043b72d872b65da5e398d147a0",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_ending_a3266884eac683771660a9cbbf31ff11.bundle",
+            "sha256": "408d11ef7f98dfa3a0532b1907facce22b042f7aa80eb391bd8428291caba8eb",
+            "kind": "bundle",
+            "bytes": 315629
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_ending_a3266884eac683771660a9cbbf31ff11.bundle.meta",
+            "sha256": "72de26e35f0a9325b1d9468c74160b94b03b8b599ed583b79017172df0c6b315",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_map01_c442f808bb0b7cba482fff06803eb222.bundle",
+            "sha256": "ac98fb17009eb257f28bd01544845aa6b0c6c9bfab370fd372005c1d228c3f14",
+            "kind": "bundle",
+            "bytes": 1163652
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_map01_c442f808bb0b7cba482fff06803eb222.bundle.meta",
+            "sha256": "299abf682b16384c48f7871dc52f3deb608cf6e6447e1edb0283f742c04aab91",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_overview_efb6fc1bf6eb2ed0279b24e90dcca89f.bundle",
+            "sha256": "3f6b65a51319e84e554db01d4b63cd22cd52f52be2eadf24a31076d94acca464",
+            "kind": "bundle",
+            "bytes": 141382
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_overview_efb6fc1bf6eb2ed0279b24e90dcca89f.bundle.meta",
+            "sha256": "513ee8ed5d24886a0cb9dbd50edfb04e478a37a896b548ee84936ea5af6e1c1b",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_pause_512a48cab65d5068347870d2ed9bc8ed.bundle",
+            "sha256": "05b85a2fd277b8fc8e1689700c0e7378304271cf7cb968002e0261724e8e4d64",
+            "kind": "bundle",
+            "bytes": 464654
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_pause_512a48cab65d5068347870d2ed9bc8ed.bundle.meta",
+            "sha256": "43ea8ac877d978f72ea1c7d4685f0019517df4a09c47a7ade479194fe721e013",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_settings_b8fc9440b75603a5097fae36fbbd7124.bundle",
+            "sha256": "c0a7c5a51d3a6f0cd2d70f973ba9edf972207cd8365754694b86602a107a9873",
+            "kind": "bundle",
+            "bytes": 697259
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_settings_b8fc9440b75603a5097fae36fbbd7124.bundle.meta",
+            "sha256": "6ef5a214b51eefc3debcedb8cad350b052fa6f3cf166e7dd8eb3ef99714bbf7e",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_title_3458d110e03075a7b7a41bbc84be4bdc.bundle",
+            "sha256": "f3ad343abdb65d17f707b69c6631200e2ea45c38c37828ccfd04cd662183bd85",
+            "kind": "bundle",
+            "bytes": 9774033
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_title_3458d110e03075a7b7a41bbc84be4bdc.bundle.meta",
+            "sha256": "c82dd7d8bf498332ea3276a8796c765ad56bc555be6a8216e8aa602e7a5d7243",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_traits_a0820620757385e22bffc2d8db97cdc4.bundle",
+            "sha256": "e14f0b9184c8836b927fb2377cb424884f3413817658e31ed515f808e7c199e2",
+            "kind": "bundle",
+            "bytes": 347211
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_art_uirestore_traits_a0820620757385e22bffc2d8db97cdc4.bundle.meta",
+            "sha256": "1d6915a8f6dc0aee56a3b96570a4ca45813087f8a4469be9de475ce5c046cca9",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_bb8b32ed56f11470a95e84565885494c.bundle",
+            "sha256": "2c518c8d5364705f934c9caaaf14e1bcb8b1da68f57d0d0217f1ffdd5d31ddf0",
+            "kind": "bundle",
+            "bytes": 3299
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_bb8b32ed56f11470a95e84565885494c.bundle.meta",
+            "sha256": "c446ffd7deea20cfdfb25a046363a8dcb59693c1605f6e5b988c01ae5d330fa4",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_world_07249c4e7302d8c7f6211b0f2bc19ea0.bundle",
+            "sha256": "78c1ac7ea9743977c546a30b10217390d1ab43222018cc9699d4a6a74c843d1a",
+            "kind": "bundle",
+            "bytes": 2384
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_resources_p5_world_07249c4e7302d8c7f6211b0f2bc19ea0.bundle.meta",
+            "sha256": "94a52d9f1b1cf4bc47be0579b3dd46da54931918e12439da94abe116779c3775",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_tengine_settings_8887c3ef6586589875cd8eb03c363adf.bundle",
+            "sha256": "8e15ad56c59001b6edc1555f531602c8910b86e2180a9259ff56ee3b7ae4a6e6",
+            "kind": "bundle",
+            "bytes": 3288
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_tengine_settings_8887c3ef6586589875cd8eb03c363adf.bundle.meta",
+            "sha256": "0cbe5d0f98e00a04386a0e7d370850a992bd5706d363d74e1246ff818bdc123f",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_tengine_settings_prefab_46cf9ae9da46eba3d69d0ac04a021479.bundle",
+            "sha256": "9a89a14316b4c1a7440ac60aa8d1bfbbb0e51cf1be727b2dd0c67b85c570d26c",
+            "kind": "bundle",
+            "bytes": 8138
+        },
+        {
+            "path": "bundles/P5Player/p5player_share_assets_tengine_settings_prefab_46cf9ae9da46eba3d69d0ac04a021479.bundle.meta",
+            "sha256": "efb531fd3446d331243ce8ae3678dc4ca4841679cce53b591baba3c7fd262aaa",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "bundles/P5Player/p5player_unityshaders_2447bab0774a6f21b439fbb2d3045544.bundle",
+            "sha256": "955c505ccad1d1b709178d6f5a463b2c56c312e7e9519274748dff843cdf744c",
+            "kind": "bundle",
+            "bytes": 22120
+        },
+        {
+            "path": "bundles/P5Player/p5player_unityshaders_2447bab0774a6f21b439fbb2d3045544.bundle.meta",
+            "sha256": "e31f842a4d0c1ecc8ed4c2457c7abcf546c76dece1e85fa671ed1092d581650f",
+            "kind": "bundle",
+            "bytes": 155
+        },
+        {
+            "path": "metadata/Newtonsoft.Json.dll",
+            "sha256": "6055450a1eb5a5f9ac9bd320c7e181f534f9642052f5e79f9a9dd0fe083f7264",
+            "kind": "metadata",
+            "bytes": 688128
+        },
+        {
+            "path": "metadata/System.Core.dll",
+            "sha256": "1f293a4a934870749f32082e1e4c55bcf0e448fa95d52530a7c8b4dd391471ca",
+            "kind": "metadata",
+            "bytes": 472576
+        },
+        {
+            "path": "metadata/System.dll",
+            "sha256": "9f33961a8a6b76f0b54e11eeb372b20c62d6f34701f31e9bd334b8cd7d1ab613",
+            "kind": "metadata",
+            "bytes": 868864
+        },
+        {
+            "path": "metadata/TEngine.Runtime.dll",
+            "sha256": "7fc2923842f220225ef83a02bbd48d75eece2ddfa7e4e6602442063cbaf5a5bc",
+            "kind": "metadata",
+            "bytes": 542208
+        },
+        {
+            "path": "metadata/UniTask.dll",
+            "sha256": "3063523d40bbb1d8427731d16b0b9a09586ff0a1b7d20d054ae266854e165169",
+            "kind": "metadata",
+            "bytes": 573440
+        },
+        {
+            "path": "metadata/UnityEngine.CoreModule.dll",
+            "sha256": "98aca4cd676e66f58ad72185d47b807945d3cb98e050eee3a185591a342152cd",
+            "kind": "metadata",
+            "bytes": 942592
+        },
+        {
+            "path": "metadata/YooAsset.dll",
+            "sha256": "8558fce3260274219fe479d261edc166c9c72bb56c11ec84ad45fdf18d5c5538",
+            "kind": "metadata",
+            "bytes": 240640
+        },
+        {
+            "path": "metadata/mscorlib.dll",
+            "sha256": "db857e876f7041bb336e97e4ee5abffc39d16a181a7d7390b6223202e7958906",
+            "kind": "metadata",
+            "bytes": 2522112
+        }
+    ],
+    "packages": [
+        {
+            "name": "DefaultPackage",
+            "version": "default-code-patch-r2"
+        },
+        {
+            "name": "P5Player",
+            "version": "code-patch-r2"
+        }
+    ]
+}

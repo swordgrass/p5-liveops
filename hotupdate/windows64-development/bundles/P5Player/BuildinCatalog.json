@@ -1,0 +1,135 @@
+{
+    "FileVersion": "1.0.0",
+    "PackageName": "P5Player",
+    "PackageVersion": "code-patch-r2",
+    "Wrappers": [
+        {
+            "BundleGUID": "cf1335a287369b51841a8736e2a872cf",
+            "FileName": "p5player_assets_scenes_battle_cf1335a287369b51841a8736e2a872cf.bundle"
+        },
+        {
+            "BundleGUID": "519522b581173e5e8f5a12b35eaad17b",
+            "FileName": "p5player_assets_scenes_main_519522b581173e5e8f5a12b35eaad17b.bundle"
+        },
+        {
+            "BundleGUID": "ef42fef7c05aa9f5f3e0f3c0b40c8958",
+            "FileName": "p5player_share_assets_p5audio_ef42fef7c05aa9f5f3e0f3c0b40c8958.bundle"
+        },
+        {
+            "BundleGUID": "288c4fbfd1fe51ec932ccade76e6d0f7",
+            "FileName": "p5player_share_assets_p5audio_feedback_288c4fbfd1fe51ec932ccade76e6d0f7.bundle"
+        },
+        {
+            "BundleGUID": "afbcb9cad9bab5ccc22174e24fcc54ef",
+            "FileName": "p5player_share_assets_p5fonts_afbcb9cad9bab5ccc22174e24fcc54ef.bundle"
+        },
+        {
+            "BundleGUID": "23b5b54dfdc63eb59f8e299c1f3ebb69",
+            "FileName": "p5player_share_assets_p5fonts_uirestore_23b5b54dfdc63eb59f8e299c1f3ebb69.bundle"
+        },
+        {
+            "BundleGUID": "734eb704a3fc6385760fbfed1546f61f",
+            "FileName": "p5player_share_assets_p5hotcontent_p5_734eb704a3fc6385760fbfed1546f61f.bundle"
+        },
+        {
+            "BundleGUID": "0c2ef02414e206cbf297cfdd2e8613f8",
+            "FileName": "p5player_share_assets_p5hotcontent_p5_world_0c2ef02414e206cbf297cfdd2e8613f8.bundle"
+        },
+        {
+            "BundleGUID": "473c366c84a32aab3f88b84c5bcc09e3",
+            "FileName": "p5player_share_assets_resources_p5_art_firstarea_batcha_473c366c84a32aab3f88b84c5bcc09e3.bundle"
+        },
+        {
+            "BundleGUID": "9a3a0c1d780245ceaa02fee85e1bdaed",
+            "FileName": "p5player_share_assets_resources_p5_art_firstarea_v01_9a3a0c1d780245ceaa02fee85e1bdaed.bundle"
+        },
+        {
+            "BundleGUID": "03d9542ddad016b24e014186a9883a6a",
+            "FileName": "p5player_share_assets_resources_p5_art_firstplayable_03d9542ddad016b24e014186a9883a6a.bundle"
+        },
+        {
+            "BundleGUID": "5e18aa84217698575209c18cd2c8b4f8",
+            "FileName": "p5player_share_assets_resources_p5_art_launcha_characters_5e18aa84217698575209c18cd2c8b4f8.bundle"
+        },
+        {
+            "BundleGUID": "d0a075ca88c9a371be4e21562f4c476a",
+            "FileName": "p5player_share_assets_resources_p5_art_launcha_enemies_d0a075ca88c9a371be4e21562f4c476a.bundle"
+        },
+        {
+            "BundleGUID": "6716b36ef6a13c933887eba3f6983f65",
+            "FileName": "p5player_share_assets_resources_p5_art_launcha_icons_6716b36ef6a13c933887eba3f6983f65.bundle"
+        },
+        {
+            "BundleGUID": "ebdb75408a72ea9e8dadd65cd81349c9",
+            "FileName": "p5player_share_assets_resources_p5_art_launcha_landmarks_ebdb75408a72ea9e8dadd65cd81349c9.bundle"
+        },
+        {
+            "BundleGUID": "f1ad28ab282f6b9ffd9d3927f90aa5e2",
+            "FileName": "p5player_share_assets_resources_p5_art_launcha_terrain_f1ad28ab282f6b9ffd9d3927f90aa5e2.bundle"
+        },
+        {
+            "BundleGUID": "c8b43eb9d204c228da361f6b5f7255f3",
+            "FileName": "p5player_share_assets_resources_p5_art_launcha_ui_c8b43eb9d204c228da361f6b5f7255f3.bundle"
+        },
+        {
+            "BundleGUID": "53c3f0a112f9696cc932798b47836630",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_battle_53c3f0a112f9696cc932798b47836630.bundle"
+        },
+        {
+            "BundleGUID": "4f0664137ee04daed7612530f507884f",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_camp_4f0664137ee04daed7612530f507884f.bundle"
+        },
+        {
+            "BundleGUID": "1e463ede5b838439864f4969031869e1",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_character_1e463ede5b838439864f4969031869e1.bundle"
+        },
+        {
+            "BundleGUID": "a3266884eac683771660a9cbbf31ff11",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_ending_a3266884eac683771660a9cbbf31ff11.bundle"
+        },
+        {
+            "BundleGUID": "c442f808bb0b7cba482fff06803eb222",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_map01_c442f808bb0b7cba482fff06803eb222.bundle"
+        },
+        {
+            "BundleGUID": "efb6fc1bf6eb2ed0279b24e90dcca89f",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_overview_efb6fc1bf6eb2ed0279b24e90dcca89f.bundle"
+        },
+        {
+            "BundleGUID": "512a48cab65d5068347870d2ed9bc8ed",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_pause_512a48cab65d5068347870d2ed9bc8ed.bundle"
+        },
+        {
+            "BundleGUID": "b8fc9440b75603a5097fae36fbbd7124",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_settings_b8fc9440b75603a5097fae36fbbd7124.bundle"
+        },
+        {
+            "BundleGUID": "3458d110e03075a7b7a41bbc84be4bdc",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_title_3458d110e03075a7b7a41bbc84be4bdc.bundle"
+        },
+        {
+            "BundleGUID": "a0820620757385e22bffc2d8db97cdc4",
+            "FileName": "p5player_share_assets_resources_p5_art_uirestore_traits_a0820620757385e22bffc2d8db97cdc4.bundle"
+        },
+        {
+            "BundleGUID": "bb8b32ed56f11470a95e84565885494c",
+            "FileName": "p5player_share_assets_resources_p5_bb8b32ed56f11470a95e84565885494c.bundle"
+        },
+        {
+            "BundleGUID": "07249c4e7302d8c7f6211b0f2bc19ea0",
+            "FileName": "p5player_share_assets_resources_p5_world_07249c4e7302d8c7f6211b0f2bc19ea0.bundle"
+        },
+        {
+            "BundleGUID": "8887c3ef6586589875cd8eb03c363adf",
+            "FileName": "p5player_share_assets_tengine_settings_8887c3ef6586589875cd8eb03c363adf.bundle"
+        },
+        {
+            "BundleGUID": "46cf9ae9da46eba3d69d0ac04a021479",
+            "FileName": "p5player_share_assets_tengine_settings_prefab_46cf9ae9da46eba3d69d0ac04a021479.bundle"
+        },
+        {
+            "BundleGUID": "2447bab0774a6f21b439fbb2d3045544",
+            "FileName": "p5player_unityshaders_2447bab0774a6f21b439fbb2d3045544.bundle"
+        }
+    ]
+}
